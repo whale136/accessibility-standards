@@ -10,7 +10,7 @@ The project was to refactor the code given to us, so that users who use the site
 - Follow best practices for CSS and consolidate where possible
 
 ## Links
-- [Github with cloned repo]
+- [Github with cloned repo](https://github.com/whale136/accessibility-standards)
 - [Appplication]
 
 ## Screenshot of live application
